@@ -5,9 +5,10 @@ do
 	echo "Enter barcode"
 	read -r response </dev/tty
 		if grep -qi "$response" deviceinfo.txt; then
-			grep -qi "$response" deviceinfo.txt>sed 's/^.\{,7\}//'>echo;
-			#./voice.sh "$inputmsg";
-                	echo "worked"
+			grep "$response" deviceinfo.txt|cat|sed 's/^.\{,9\}//'>info.txt;
+			
+			./voice.sh cat info.txt;
+                	echo "$worked"
 #			eval $command
 		fi
 done
