@@ -1,0 +1,71 @@
+3850623	prosessori	 i5	muisti	4096		levy	250.0	windows	W10 Pro
+2643287	prosessori	 i5	muisti	4096		levy	500.0	windows	W8 Pro
+3248886	prosessori	 i5	muisti	4096		levy	500.0	windows	W8 Pro
+3923790	prosessori	 i5	muisti	8192		levy	130.0	windows	No license
+3923789	prosessori	 i5	muisti	8192		levy	130.0	windows	W7 Pro
+3205682	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3815604	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3815607	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3815608	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3815610	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3836177	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3836180	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3836181	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3912932	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3913181	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3913189	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
+3252393	prosessori	 i5	muisti	8192		levy	180.0	windows	W10 Pro
+3252442	prosessori	 i5	muisti	8192		levy	180.0	windows	W10 Pro
+3585981	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
+3585982	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
+3834320	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
+3585970	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3586062	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3586066	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3586067	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3586068	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+2887548	prosessori	 i5	muisti	8192		levy	320.0	windows	W7 Pro
+3416315	prosessori	 i5	muisti	8192		levy	320.0	windows	W7 Pro
+3263665	prosessori	 i5	muisti	8192		levy	500.0	windows	W8 Pro
+3249833	prosessori	 i7	muisti	8192		levy	260.0	windows	W10 Pro
+3913270	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3586126	prosessori	 i5	muisti	8192		levy	130.0	windows	W10 Pro
+3852852	prosessori	 i5	muisti	8192		levy	130.0	windows	W7 Pro
+3923737	prosessori	 i5	muisti	8192		levy	260.0	windows	No license
+3080017	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3080019	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3080063	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3247284	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3247285	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3247298	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3249818	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3249821	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3254717	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3416681	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3703889	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3913785	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3817399	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3923729	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3923736	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3923738	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3923787	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3923745	prosessori	 i5	muisti	8192		levy	510.0	windows	W7 Pro
+3265038	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265040	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265043	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265044	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265046	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265047	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265048	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265049	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+3265050	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
+2887551	prosessori	 i5	muisti	16384		levy	320.0	windows	W10 Pro
+2887567	prosessori	 i5	muisti	16384		levy	500.0	windows	W10 Pro
+3084304	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
+3233564	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Home
+2192315	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3084307	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3084308	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
+3084301	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3818007	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
+3249169	prosessori	 i7	muisti	8192		levy	260.0	windows	W10 Pro
