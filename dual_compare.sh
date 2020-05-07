@@ -10,13 +10,11 @@ do
 #                       eval $command
                         ./voice.sh "pieni levy";
                 fi
-        read -r response </dev/tty
                 if grep -qi "$response" lisensiton.txt; then
                         echo "worked"
 #                       eval $command
                         ./voice.sh "ei lisenssiä";
                 fi
-
 
 done
 
