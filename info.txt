@@ -1,1 +1,1 @@
-	prosessori	 i5	muisti	4096		levy	250.0	windows	W10 Pro
+	prosessori	 i7	muisti	8192		levy	260.0	windows	W10 Pro
