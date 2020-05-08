@@ -4,13 +4,12 @@ while :
 do
 	echo "Enter barcode"
 	read -r response </dev/tty
-		if grep -qi "$response" deviceinfo.txt; then
-			grep "$response" deviceinfo.txt|cat|sed 's/^.\{,9\}//'>onedevice.csv;
+		if grep -qi "$response" complete_devicelist.csv; then
+			grep "$response" complete_devicelist.csv|cat|sed 's/^.\{,9\}//'>onedevice.csv;
 			./voice.sh cat onedevice.csv;
                 	echo "$worked"
-			echo "$response"
+			#echo "$response"
 		fi
-		arguments=$1","$2","$3","$4","$5","$6","$7","$8","$9","$10","$11","$12","$13","$14","$15","$16","$17","$18","$19","$20","$21","$22","$23","$24
-		csvcut -d "|" -c $arguments onedevice.csv|espeak-ng
+		csvcut -d "|" -c $1 onedevice.csv|espeak -vfi+m1 -m -p 0 -s 110;
 done
 
