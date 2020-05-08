@@ -1,0 +1,3 @@
+run this to view column names csvcut -n -d "|" ../complete_devicelist.csv
+run ./cellcompare.sh "1,4,6" to get device columns 1,4 and 6 after reading stickerid with barcode scanner
+
