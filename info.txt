@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 	prosessori	 i7	muisti	8192		levy	260.0	windows	W10 Pro
+=======
+	prosessori	5	muisti	8	levy	260	windows	 Pro
+>>>>>>> bd1c33a7254d4275aeaa7f8567a7b7858d26600c

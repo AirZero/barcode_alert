@@ -1,71 +1,71 @@
-003850623	prosessori	 i5	muisti	4096		levy	250.0	windows	W10 Pro
-002643287	prosessori	 i5	muisti	4096		levy	500.0	windows	W8 Pro
-003248886	prosessori	 i5	muisti	4096		levy	500.0	windows	W8 Pro
-003923790	prosessori	 i5	muisti	8192		levy	130.0	windows	No license
-003923789	prosessori	 i5	muisti	8192		levy	130.0	windows	W7 Pro
-003205682	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003815604	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003815607	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003815608	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003815610	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003836177	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003836180	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003836181	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003912932	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003913181	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003913189	prosessori	 i5	muisti	8192		levy	260.0	windows	W8
-003252393	prosessori	 i5	muisti	8192		levy	180.0	windows	W10 Pro
-003252442	prosessori	 i5	muisti	8192		levy	180.0	windows	W10 Pro
-003585981	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
-003585982	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
-003834320	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
-003585970	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003586062	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003586066	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003586067	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003586068	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-002887548	prosessori	 i5	muisti	8192		levy	320.0	windows	W7 Pro
-003416315	prosessori	 i5	muisti	8192		levy	320.0	windows	W7 Pro
-003263665	prosessori	 i5	muisti	8192		levy	500.0	windows	W8 Pro
-003249833	prosessori	 i7	muisti	8192		levy	260.0	windows	W10 Pro
-003913270	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003586126	prosessori	 i5	muisti	8192		levy	130.0	windows	W10 Pro
-003852852	prosessori	 i5	muisti	8192		levy	130.0	windows	W7 Pro
-003923737	prosessori	 i5	muisti	8192		levy	260.0	windows	No license
-003080017	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003080019	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003080063	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003247284	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003247285	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003247298	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003249818	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003249821	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003254717	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003416681	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003703889	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003913785	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003817399	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003923729	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003923736	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003923738	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003923787	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003923745	prosessori	 i5	muisti	8192		levy	510.0	windows	W7 Pro
-003265038	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265040	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265043	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265044	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265046	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265047	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265048	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265049	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-003265050	prosessori	 i5	muisti	16384		levy	260.0	windows	W10 Pro
-002887551	prosessori	 i5	muisti	16384		levy	320.0	windows	W10 Pro
-002887567	prosessori	 i5	muisti	16384		levy	500.0	windows	W10 Pro
-003084304	prosessori	 i5	muisti	8192		levy	180.0	windows	W7 Pro
-003233564	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Home
-002192315	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003084307	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003084308	prosessori	 i5	muisti	8192		levy	260.0	windows	W10 Pro
-003084301	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003818007	prosessori	 i5	muisti	8192		levy	260.0	windows	W7 Pro
-003249169	prosessori	 i7	muisti	8192		levy	260.0	windows	W10 Pro
+003850623	prosessori	5	muisti	4	levy	250	windows	 Pro
+002643287	prosessori	5	muisti	4	levy	500	windows	Pro
+003248886	prosessori	5	muisti	4	levy	500	windows	Pro
+003923790	prosessori	5	muisti	8	levy	130	windows	no license
+003923789	prosessori	5	muisti	8	levy	130	windows	Pro
+003205682	prosessori	5	muisti	8	levy	260	windows	 Pro
+003815604	prosessori	5	muisti	8	levy	260	windows	
+003815607	prosessori	5	muisti	8	levy	260	windows	
+003815608	prosessori	5	muisti	8	levy	260	windows	
+003815610	prosessori	5	muisti	8	levy	260	windows	
+003836177	prosessori	5	muisti	8	levy	260	windows	
+003836180	prosessori	5	muisti	8	levy	260	windows	
+003836181	prosessori	5	muisti	8	levy	260	windows	
+003912932	prosessori	5	muisti	8	levy	260	windows	
+003913181	prosessori	5	muisti	8	levy	260	windows	
+003913189	prosessori	5	muisti	8	levy	260	windows	
+003252393	prosessori	5	muisti	8	levy	180	windows	 Pro
+003252442	prosessori	5	muisti	8	levy	180	windows	 Pro
+003585981	prosessori	5	muisti	8	levy	180	windows	Pro
+003585982	prosessori	5	muisti	8	levy	180	windows	Pro
+003834320	prosessori	5	muisti	8	levy	180	windows	Pro
+003585970	prosessori	5	muisti	8	levy	260	windows	Pro
+003586062	prosessori	5	muisti	8	levy	260	windows	Pro
+003586066	prosessori	5	muisti	8	levy	260	windows	Pro
+003586067	prosessori	5	muisti	8	levy	260	windows	Pro
+003586068	prosessori	5	muisti	8	levy	260	windows	Pro
+002887548	prosessori	5	muisti	8	levy	320	windows	Pro
+003416315	prosessori	5	muisti	8	levy	320	windows	Pro
+003263665	prosessori	5	muisti	8	levy	500	windows	Pro
+003249833	prosessori	7	muisti	8	levy	260	windows	 Pro
+003913270	prosessori	5	muisti	16	levy	260	windows	 Pro
+003586126	prosessori	5	muisti	8	levy	130	windows	 Pro
+003852852	prosessori	5	muisti	8	levy	130	windows	Pro
+003923737	prosessori	5	muisti	8	levy	260	windows	no license
+003080017	prosessori	5	muisti	8	levy	260	windows	 Pro
+003080019	prosessori	5	muisti	8	levy	260	windows	 Pro
+003080063	prosessori	5	muisti	8	levy	260	windows	 Pro
+003247284	prosessori	5	muisti	8	levy	260	windows	 Pro
+003247285	prosessori	5	muisti	8	levy	260	windows	 Pro
+003247298	prosessori	5	muisti	8	levy	260	windows	 Pro
+003249818	prosessori	5	muisti	8	levy	260	windows	 Pro
+003249821	prosessori	5	muisti	8	levy	260	windows	 Pro
+003254717	prosessori	5	muisti	8	levy	260	windows	 Pro
+003416681	prosessori	5	muisti	8	levy	260	windows	 Pro
+003703889	prosessori	5	muisti	8	levy	260	windows	 Pro
+003913785	prosessori	5	muisti	8	levy	260	windows	 Pro
+003817399	prosessori	5	muisti	8	levy	260	windows	Pro
+003923729	prosessori	5	muisti	8	levy	260	windows	Pro
+003923736	prosessori	5	muisti	8	levy	260	windows	Pro
+003923738	prosessori	5	muisti	8	levy	260	windows	Pro
+003923787	prosessori	5	muisti	8	levy	260	windows	Pro
+003923745	prosessori	5	muisti	8	levy	510	windows	Pro
+003265038	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265040	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265043	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265044	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265046	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265047	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265048	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265049	prosessori	5	muisti	16	levy	260	windows	 Pro
+003265050	prosessori	5	muisti	16	levy	260	windows	 Pro
+002887551	prosessori	5	muisti	16	levy	320	windows	 Pro
+002887567	prosessori	5	muisti	16	levy	500	windows	 Pro
+003084304	prosessori	5	muisti	8	levy	180	windows	Pro
+003233564	prosessori	5	muisti	8	levy	260	windows	 Home
+002192315	prosessori	5	muisti	8	levy	260	windows	 Pro
+003084307	prosessori	5	muisti	8	levy	260	windows	 Pro
+003084308	prosessori	5	muisti	8	levy	260	windows	 Pro
+003084301	prosessori	5	muisti	8	levy	260	windows	Pro
+003818007	prosessori	5	muisti	8	levy	260	windows	Pro
+003249169	prosessori	7	muisti	8	levy	260	windows	 Pro
