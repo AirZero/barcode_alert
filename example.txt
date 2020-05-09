@@ -1,11 +1,5 @@
 1. copy&paste device infos to libre office
-##2. copy&replace: Find: put nothing in here. Replace: Put text "empty" without quotation marks here.
-##3. copy&replace: Find: "^(.*)$" without quotation marks and replace with "$1" WITH quotation marks.
 2. save as .csv with "|" delimeter
-
-
-https://stackoverflow.com/questions/53191013/how-can-i-add-quotation-marks-to-a-libreoffice-calc-cell-text
-
 
 csvcut -d "|" -c 2,5 onedevice.csv
 
