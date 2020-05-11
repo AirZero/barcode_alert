@@ -8,12 +8,11 @@ read -r columns </dev/tty
 while :
 do	echo "Enter barcode"
 	read -r response </dev/tty
+		response=${respon:2}
 		if grep -qi "$response" ../complete_devicelist.csv; then
 			grep "$response" ../complete_devicelist.csv|cat|sed 's/^.\{,9\}//'>onedevice.csv;
 			#./voice.sh cat onedevice.csv;
-                	echo "$worked"
-			#echo "$response"
+			echo "$response" + "found"
+	                csvcut -d "|" -c $columns onedevice.csv|espeak -vfi+m1 -m -p 0 -s 110;
 		fi
-		csvcut -d "|" -c $columns onedevice.csv|espeak -vfi+m1 -m -p 0 -s 110;
 done
-
