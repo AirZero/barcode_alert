@@ -147,3 +147,23 @@
 003286800
 003286801
 003286802
+001848050
+001848050
+00                        withoutzeros=sed 's/^.\{,9\}//' "$response";
+00                        withoutzeros=sed 's/^.\{,9\}//' "$response";
+00                        withoutzeros=sed 's/^.\{,9\}//' "$response";
+
+00                        withoutzeros=sed 's/^.\{,9\}//' "$response";
+00                        withoutzeros=sed 's/^.\{,9\}//' "$response";
+withoutzeros=sed 's/^.\{,9\}//' "$response";
+001848050
+[A
+001848050
+001848050
+001848050
+001848050
+001848050
+001848050
+[A
+001848050
+001848050
